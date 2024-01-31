@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-01-31T10:37:03 CST" name="testing_build.GitTest" finished-at="2024-01-31T10:37:16 CST" duration-ms="12980">
+    <groups>
+    </groups>
+    <test started-at="2024-01-31T10:37:03 CST" name="Command line test" finished-at="2024-01-31T10:37:16 CST" duration-ms="12980">
+      <class name="testing_build.GitTest">
+        <test-method is-config="true" signature="init()[pri:0, instance:testing_build.GitTest@217ed35e]" started-at="2024-01-31T10:37:03 CST" name="init" finished-at="2024-01-31T10:37:07 CST" duration-ms="3560" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method signature="testLogin()[pri:0, instance:testing_build.GitTest@217ed35e]" started-at="2024-01-31T10:37:07 CST" name="testLogin" finished-at="2024-01-31T10:37:16 CST" duration-ms="9364" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogin -->
+      </class> <!-- testing_build.GitTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- testing_build.GitTest -->
+</testng-results>
